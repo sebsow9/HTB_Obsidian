@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Extracting Passwords from Windows"
             }
+          },
+          {
+            "id": "ebf90b0601dc0045",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +175,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "51fc3d982b43e2f9",
   "lastOpenFiles": [
+    "README.md",
     "HTB/Password Attacks/Cracking Techniques (hashcat, john, files, wordlists).md",
     "HTB/File_Transfers/evading detection.md",
     "HTB/Password Attacks/Extracting Passwords from Windows.md",
@@ -183,7 +195,6 @@
     "Cheat-Sheets/File_Transfers_Module_Cheat_Sheet.pdf",
     "Sql_Injection_Fundamentals_Module_Cheat_Sheet.pdf",
     "Shells_Payloads_Module_Cheat_Sheet.pdf",
-    "README.md",
     "Network_Enumeration_With_Nmap_Module_Cheat_Sheet.pdf",
     "HTB/Password Attacks/Intro.md",
     "Graph-Home.md",
