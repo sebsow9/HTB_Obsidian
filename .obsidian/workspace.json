@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Password Attacks/Extracting Passwords from Windows.md",
+                "file": "HTB/Password Attacks/Cracking Techniques (hashcat, john, files, wordlists).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extracting Passwords from Windows"
+              "title": "Cracking Techniques (hashcat, john, files, wordlists)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Password Attacks/Extracting Passwords from Windows.md",
+                "file": "HTB/Password Attacks/Cracking Techniques (hashcat, john, files, wordlists).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Extracting Passwords from Windows"
+              "title": "Backlinks for Cracking Techniques (hashcat, john, files, wordlists)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Password Attacks/Extracting Passwords from Windows.md",
+                "file": "HTB/Password Attacks/Cracking Techniques (hashcat, john, files, wordlists).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Extracting Passwords from Windows"
+              "title": "Outgoing links from Cracking Techniques (hashcat, john, files, wordlists)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Password Attacks/Extracting Passwords from Windows.md",
+                "file": "HTB/Password Attacks/Cracking Techniques (hashcat, john, files, wordlists).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Extracting Passwords from Windows"
+              "title": "Outline of Cracking Techniques (hashcat, john, files, wordlists)"
             }
           },
           {
@@ -181,10 +181,15 @@
   },
   "active": "51fc3d982b43e2f9",
   "lastOpenFiles": [
-    "README.md",
+    "HTB/Password Attacks/Remote Password Attacks.md",
+    "HTB/Password Attacks/Attacking SAM, SYSTEM, SECURITY.md",
+    "HTB/Password Attacks/Windows Authentication Process.md",
     "HTB/Password Attacks/Cracking Techniques (hashcat, john, files, wordlists).md",
+    "HTB/shells&payloads/AutomatingPayloadsAndDeliveryWithMetasploit.md",
+    "OS-Windows.md",
+    "HTB/footprinting/DNS.md",
+    "README.md",
     "HTB/File_Transfers/evading detection.md",
-    "HTB/Password Attacks/Extracting Passwords from Windows.md",
     "Cheat-Sheets/README.md",
     "Cheat-Sheets/Sql_Injection_Fundamentals_Module_Cheat_Sheet.pdf",
     "Cheat-Sheets/Shells_Payloads_Module_Cheat_Sheet.pdf",
@@ -198,7 +203,6 @@
     "Network_Enumeration_With_Nmap_Module_Cheat_Sheet.pdf",
     "HTB/Password Attacks/Intro.md",
     "Graph-Home.md",
-    "OS-Windows.md",
     "HTB/File_Transfers/Linux.md"
   ]
 }
