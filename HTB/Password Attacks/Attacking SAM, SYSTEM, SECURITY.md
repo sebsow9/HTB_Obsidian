@@ -3,6 +3,8 @@ tags:
   - os/windows
   - cybersec
 ---
+**Powiązane:** [[Graph-Home]] [[OS-Windows]]
+
 
 With administrative access to a Windows system, we can attempt to quickly dump the files associated with the SAM database, transfer them to our attack host, and begin cracking the hashes offline. Performing this process offline allows us to continue our attacks without having to maintain an active session with the target..
 
