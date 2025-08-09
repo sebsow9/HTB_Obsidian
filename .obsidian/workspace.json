@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Password Attacks/Attacking LSASS.md",
+                "file": "HTB/Password Attacks/Active Directory and NTDS.dit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attacking LSASS"
+              "title": "Active Directory and NTDS.dit"
             }
           }
         ]
@@ -181,11 +181,14 @@
   },
   "active": "0fde7a50d2ce33d6",
   "lastOpenFiles": [
-    "HTB/Password Attacks/Attacking SAM, SYSTEM, SECURITY.md",
-    "HTB/File_Transfers/Windows.md",
-    "HTB/Password Attacks/Attacking LSASS.md",
+    "HTB/Password Attacks/Windows Credential Manager.md",
+    "HTB/Password Attacks/Active Directory and NTDS.dit.md",
+    "HTB/Password Attacks/Windows Authentication Process.md",
+    "HTB/Password Attacks/SAM, SYSTEM, SECURITY.md",
     "HTB/Password Attacks/Remote Password Attacks.md",
     "HTB/Password Attacks/Cracking Techniques (hashcat, john, files, wordlists).md",
+    "HTB/Password Attacks/LSASS.md",
+    "HTB/File_Transfers/Windows.md",
     "Pasted image 20250809163959.png",
     "Pasted image 20250809163659.png",
     "HTB/using Metasploit/intro.md",
@@ -196,7 +199,6 @@
     "HTB/File_Transfers/Living_Off_The_Land.md",
     "HTB/File_Transfers/Linux.md",
     "HTB/File_Transfers/evading detection.md",
-    "HTB/Password Attacks/Windows Authentication Process.md",
     "HTB/Password Attacks/Intro.md",
     "OS-Windows.md",
     "HTB/shells&payloads/AutomatingPayloadsAndDeliveryWithMetasploit.md",

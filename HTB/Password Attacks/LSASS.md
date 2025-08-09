@@ -1,7 +1,6 @@
 ---
 tags:
   - os/windows
-  - cybersec
 ---
 
 In addition to acquiring copies of the SAM database to extract and crack password hashes, we will also benefit from targeting the [Local Security Authority Subsystem Service (LSASS)](https://en.wikipedia.org/wiki/Local_Security_Authority_Subsystem_Service).LSASS is a core Windows process responsible for enforcing security policies, handling user authentication, and storing sensitive credential material in memory.

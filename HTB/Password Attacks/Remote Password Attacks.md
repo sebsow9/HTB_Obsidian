@@ -10,6 +10,7 @@ source: HTB\Password Attacks\Remote Password Attacks
 
 > Źródło: `HTB\Password Attacks\Remote Password Attacks`
 
+Default credentials cheat list: https://github.com/ihebski/DefaultCreds-cheat-sheet
 ### WinRM
 Windows Remote Management (WinRM) is the Microsoft implementation of the Web Services Management Protocol (WS-Management).
 It is a network protocol based on XML web services using the Simple Object Access Protocol (SOAP) used for remote management of Windows systems.
@@ -180,6 +181,6 @@ Ovas420@htb[/htb]$ creds search linksys
 ```
 
 
-Default credentials cheat list: https://github.com/ihebski/DefaultCreds-cheat-sheet
+
 
 **Powiązane:** [[Graph-Home]] [[OS-Windows]] [[OS-Linux]]
