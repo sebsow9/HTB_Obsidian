@@ -1,7 +1,8 @@
 ---
 Title: HTB\File_Transfers\Living_Off_The_Land
 tags:
-  - os/unknown- cybersec
+  - os/linux
+  - os/windows
 source: HTB\File_Transfers\Living_Off_The_Land
 ---
 

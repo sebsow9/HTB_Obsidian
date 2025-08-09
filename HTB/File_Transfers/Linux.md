@@ -1,7 +1,7 @@
 ---
 Title: HTB\File_Transfers\Linux
 tags:
-  - os/linux- cybersec
+  - os/linux-
 source: HTB\File_Transfers\Linux
 ---
 
