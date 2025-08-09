@@ -1,7 +1,7 @@
 ---
 Title: HTB\using Metasploit\intro
 tags:
-  - os/linux- cybersec
+  - os/linux
 source: HTB\using Metasploit\intro
 ---
 

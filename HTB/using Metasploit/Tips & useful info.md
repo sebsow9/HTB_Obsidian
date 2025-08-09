@@ -1,7 +1,7 @@
 ---
 Title: HTB\using Metasploit\Tips & useful info
 tags:
-  - os/linux- cybersec
+  - os/linux
 source: HTB\using Metasploit\Tips & useful info
 ---
 
